@@ -1,0 +1,24 @@
+article{
+    background-color: #cccccc;
+    color: #ffffff
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 20px ;
+}
+
+h1{
+    color:orangered;
+}
+
+button.btn.btn-primary{
+    background-color: orangered;
+    border-color: orangered;
+    margin: 40px 0;
+}
+
+ /*.col-md-9{
+     margin-right: 50px;
+ } NÃO FAZER ISSO QUE QUEBRA A LINHA E CAGA TUDO!! NÃO ALTERA A GRID E NUNCA MEXA NO CSS DO BOOTSTRAP*/
